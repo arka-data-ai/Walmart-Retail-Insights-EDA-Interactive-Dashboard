@@ -1,6 +1,6 @@
 🛒 **Retail Analysis & Dashboard**
 
-📌**Overview**
+📌 **Overview**
 This project showcases a comprehensive retail market analysis on Walmart Data using Microsoft Excel. 
 It involves solving 8 real-world business questions using data analysis techniques such as Excel formulas, lookups, pivot tables, charts, and culminates in an interactive dashboard.
 The objective is to help Walmart make strategic decisions in areas such as market expansion, customer retention, profitability, and product focus.
